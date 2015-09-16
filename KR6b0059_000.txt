@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 賢愚經
+#+DATE: 2015-08-30 19:35:49.399706
+#+PROPERTY: JUAN 0
