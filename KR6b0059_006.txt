@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:48.810840
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:02
 #+TITLE: 賢愚經
 #+PROPERTY: CBETA_ID T04n0202
 #+PROPERTY: ID KR6b0059
@@ -15,7 +15,7 @@
 ¶
 元魏涼州沙門慧覺等在高昌郡譯¶
 
-30月光王頭施品
+* 30月光王頭施品
 :PROPERTIES:
 :head: （三一）月光王頭施品第三十(丹本此品却在五卷為二十八)
 :END:
